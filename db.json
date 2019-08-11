@@ -1,0 +1,155 @@
+{
+  "users": [
+    {
+      "username": "Vo Dinh Hung",
+      "password": "123123",
+      "email": "vodinhhung@gmail.com",
+      "role": 0,
+      "id": 1
+    },
+    {
+      "email": "vodinhhung@gmail.com",
+      "password": "123123",
+      "id": 2
+    },
+    {
+      "email": "vodinhhung@gmail.com",
+      "password": "123123",
+      "id": 3
+    },
+    {
+      "email": "vodinhhung@gmail.com",
+      "password": "123123",
+      "id": 4
+    },
+    {
+      "email": "vodinhhung@gmail.com",
+      "password": "123123",
+      "id": 5
+    },
+    {
+      "email": "vodinhhung@gmail.com",
+      "password": "123123",
+      "id": 6
+    },
+    {
+      "email": "vodinhhung@gmail.com",
+      "password": "123123",
+      "id": 7
+    },
+    {
+      "email": "vodinhhung@gmail.com",
+      "password": "123123",
+      "id": 8
+    },
+    {
+      "email": "vodinhhung@gmail.com",
+      "password": "123123",
+      "id": 9
+    },
+    {
+      "username": "vodinhhung@gmail.com",
+      "email": "12121212@gmail.com",
+      "password": "1234",
+      "role": "student",
+      "id": 10
+    }
+  ],
+  "Habit": [
+    {
+      "idUser": "1",
+      "name": "Eat",
+      "slogan": "eat",
+      "datestart": "2019-07-08",
+      "datefinish": "2019-07-31",
+      "after": "",
+      "repeat": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "color": "#fc0101",
+      "id": 1
+    },
+    {
+      "idUser": "1",
+      "name": "Sleep",
+      "slogan": "Sleep",
+      "datestart": "2019-07-26",
+      "datefinish": "2019-07-30",
+      "after": "",
+      "repeat": [
+        3,
+        4,
+        5
+      ],
+      "color": "#ee1414",
+      "id": 2
+    },
+    {
+      "idUser": "1",
+      "name": "Eat2",
+      "slogan": "Eat2",
+      "datestart": "2019-07-08",
+      "datefinish": "2019-07-27",
+      "after": "",
+      "repeat": [
+        3,
+        5,
+        7
+      ],
+      "color": "",
+      "id": 3
+    },
+    {
+      "idUser": "1",
+      "name": "Eat3",
+      "slogan": "Eat3",
+      "datestart": "2019-07-08",
+      "datefinish": "2019-07-27",
+      "after": "",
+      "repeat": [
+        3,
+        5,
+        6,
+        4
+      ],
+      "color": "#891515",
+      "id": 4
+    },
+    {
+      "idUser": "1",
+      "name": "Eat4",
+      "slogan": "Eat4",
+      "datestart": "2019-07-08",
+      "datefinish": "2019-07-27",
+      "after": "",
+      "repeat": [
+        3,
+        5,
+        6,
+        4
+      ],
+      "color": "#240202",
+      "id": 5
+    },
+    {
+      "idUser": "1",
+      "name": "Eat5",
+      "slogan": "Eat5",
+      "datestart": "2019-07-08",
+      "datefinish": "2019-07-27",
+      "after": "",
+      "repeat": [
+        3,
+        5,
+        6,
+        4
+      ],
+      "color": "#240202",
+      "id": 6
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+.container .row .col-sm-8 .ButtonCreate {
+    margin-top: 12px;
+    color: #FFFFFF;	
+    font-size: 14px;	
+    font-weight: 500;	
+    line-height: 18px;
+    padding: 11px 18px;
+    text-transform: uppercase;
+    width: auto;
+}
+.container .row .col-sm-8 .ButtonLogout {
+	margin-top: 8px;
+    margin-left: 12px;
+    height: 26px;
+    text-decoration: none;
+}
+.container .row .col-sm-8 .ButtonProfile {
+	margin-top: 8px;
+    margin-left: 12px;
+    height: 26px;
+    text-decoration: none;
+}

@@ -1,0 +1,96 @@
+.remaining {
+    color: #292E34;	
+    font-size: 16px;	
+    font-weight: 300;	
+    line-height: 19px;
+    margin-right: 10px;
+}
+.day-remaining {
+    color: #292E34;	
+    font-size: 16px;	
+    font-weight: 500;	
+    line-height: 19px;
+    margin-right: 30px;
+}
+.start {
+    color: #292E34;	
+    font-size: 16px;	
+    font-weight: 300;	
+    line-height: 19px;
+    margin-right: 10px
+}
+.day-start {
+    color: #292E34;	
+    font-size: 16px;	
+    font-weight: 500;	
+    line-height: 19px;
+    margin-right: 20px;
+}
+.end {
+    color: #292E34;	
+    font-size: 16px;	
+    font-weight: 300;	
+    line-height: 19px;
+    margin-right: 10px;
+}
+.day-end {
+    color: #292E34;	
+    font-size: 16px;	
+    font-weight: 500;	
+    line-height: 19px;
+}
+.complete-result {
+    height: 49.59px;	
+    width: 99.18px;	
+    border: 0.82px solid #EEEDED;	
+    background-color: #FFFFFF;	
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,0.5);
+}
+.result-label {
+    height: 29px;	
+    width: 98px;	
+    color: #292E34;	
+    font-size: 24px;	
+    font-weight: bold;	
+    line-height: 29px;
+    margin-left: 20px;
+}
+.result-percent {
+    height: 29px;	
+    width: 56px;	
+    color: #292E34;	
+    font-size: 24px;	
+    font-weight: bold;	
+    line-height: 29px;
+    margin-left: 15px;
+}
+.border {
+    height: 1px;	
+    width: 822px;	
+    background-color: #D8D8D8;
+}
+.title-success, .title-percent {
+    color: #292E34;	
+    font-size: 24px;	
+    font-weight: bold;	
+    line-height: 29px;
+    margin-left: 20px;
+}
+.detail-date{
+    margin-top: 17px;
+}
+.name-habit{
+    color: #292E34;	
+    font-size: 24px;	
+    line-height: 29px;
+    text-transform: uppercase;
+}
+.slogan{
+    font-size: 16px;	
+    font-weight: 300;	
+    line-height: 19px;
+}
+.completed-result{
+    font-size: 20px;	
+    line-height: 24px;
+}

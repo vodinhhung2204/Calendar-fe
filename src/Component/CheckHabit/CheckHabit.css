@@ -1,0 +1,66 @@
+.modal-content> .header {
+    text-align: center;
+    margin: 0px 162px;
+    border-bottom: none;
+}
+.modal-dialog> .modal-content{
+    background-color: #FAFAFA;
+}
+.form-group .image-button {
+    float: left;
+    margin-left: 20px;
+    width: 203px;
+    background-color: #FFFFFF;
+    border: 1px solid #95C11F;
+    box-shadow: 0 0 1px 0 rgba(0,0,0,0.5);
+}
+.wrapper-form{
+    height: 300px;
+}
+.form-group > .label-addnode{
+    color: #292E34;	
+    font-family: Montserrat;	
+    font-size: 14px;	
+    line-height: 18px;
+    margin: 15px 0px 0px 20px;
+}
+
+.form-group .input input {
+    margin: 20px;
+    height: 141px;
+    width: 427px;
+    border-radius: 2px;
+    background-color: #FFFFFF;
+}
+
+.modal-content >.footer-button {
+    margin-right: 100px;
+    border-top: none;
+}
+
+.modal-content> .footer-button .cancel-button {
+    color: #9B9B9B;
+    height: 34px;
+    width: 86px;
+    border: 1px solid #7F8FA4;
+    border-radius: 2px;
+    background-color: #FFFFFF;
+}
+
+.modal-content >.footer-button .save-button {
+    height: 34px;
+    width: 152px;
+    border: 1px solid #229CC6;
+    border-radius: 2px;
+    background-color: #37B5E1;
+}
+.label-current-day{
+    color: #333333;	
+    font-size: 24px;	
+    font-weight: bold;
+    line-height: 29px;   
+}
+.wrapper-totalday{
+    width: 190px;
+    margin-left: -20px;
+}

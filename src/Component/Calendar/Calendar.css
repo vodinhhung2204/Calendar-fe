@@ -1,0 +1,41 @@
+.ContainCalendar {
+    height: 550px;
+}
+
+.ContainCalendar .rbc-row-segment .rbc-event {
+  background-color: white;
+}
+.custom-calendar{
+ background-color: white;
+}
+.custom-calendar > .custom-img{
+  float: right;
+  margin-bottom: 10px;
+}
+.custom-calendar > .custom-note{
+  color: #000000;	
+  font-family: Montserrat;
+  font-size: 14px;
+  line-height: 18px;
+  float: left;
+  margin-top: 32px;
+}
+.rbc-toolbar>.rbc-month-view>.rbc-month-row>.rbc-row-bg >.rbc-day-bg .rbc-today{
+  background-color: white;
+}
+
+.custom-calendar > .custom-note-fall{
+  color: #95C11F;
+  font-family: Montserrat; 
+  font-size: 14px;
+  line-height: 18px;
+  float: left;
+  margin-top: 32px;
+
+}
+.ContainCalendar .rbc-ellipsis, .rbc-event-label, .rbc-row-segment .rbc-event-content{
+  font-size: 18px;
+  margin-left: 5px;
+  margin-top: 3px;
+
+}

@@ -1,0 +1,79 @@
+body .habit {
+    border-bottom: 1px solid #D8D8D8;
+    margin-bottom: 10px;
+}
+
+body .profile {
+    margin-right: 50px;
+    margin-top: 75px;
+}
+
+.img {
+    border-radius: 50%;
+}
+
+.slogan {
+    height: 38px;	
+    width: 648px;	
+    color: #292E34;	
+    font-size: 16px;	
+    font-weight: 300;	
+    line-height: 19px;
+}
+
+body .first-habit {
+    margin-top: 120px;
+    margin-left: -450px;
+}
+
+body .second-habit {
+    margin-left: 370px;
+}
+
+body .third-habit {
+    margin-left: 370px;
+}
+
+body .view {
+    margin-left: 14px;
+    font-size: 14px;
+    color: #37B5E1;
+    background-color: #FFFFFF;
+    border: none;
+}
+
+body .view:hover {
+    color: #37B5E1;
+    background-color: #FFFFFF;
+}
+
+body .first-switch {
+    margin-left: 400px;
+
+}
+
+body .second-switch {
+    margin-left: 345px;
+}
+
+body .third-switch {
+    margin-left: 414px;
+}
+
+body .infor {
+    display: inline;
+    margin-left: 50px;
+}
+
+body .yes, body .no {
+    height: 49.59px;	
+    width: 99.18px;	
+    border: 0.82px solid #EEEDED;	
+    background-color: #FFFFFF;	
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,0.5);
+    margin-right: 50px !important;
+}
+
+body .no {
+    margin-left: 50px;
+}

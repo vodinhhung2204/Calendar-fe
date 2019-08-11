@@ -1,0 +1,55 @@
+.containerHabit {
+    width: 90%;
+    height: 120px;
+}
+.wrapper-habit{
+    background-color: #F4F5F9;
+}
+.name-habit {
+    color: #292E34;	
+    font-family: Montserrat;	
+    font-size: 24px;	
+    font-weight: bold;	
+    line-height: 29px;
+    float: left;
+}
+.note-habit {
+    color: #292E34;	
+    font-family: Montserrat;	
+    font-size: 16px;	
+    font-weight: 300;	
+    line-height: 19px;
+    float: right;
+}
+.date-start-content {
+    opacity: 0.6;	
+    color: #292E34;	
+    font-family: Montserrat;	
+    font-size: 14px;	
+    font-weight: 300;	
+    line-height: 18px;
+}
+.date-start {
+    color: #292E34;	
+    font-family: Montserrat;	
+    font-size: 14px;	
+    font-weight: 300;	
+    line-height: 18px;
+    margin-left: 18px;
+}
+.date-finish-content {
+    opacity: 0.6;	
+    color: #292E34;	
+    font-family: Montserrat;	
+    font-size: 14px;	
+    font-weight: 300;	
+    line-height: 18px;
+}
+.date-finish {
+    color: #292E34;	
+    font-family: Montserrat;	
+    font-size: 14px;	
+    font-weight: 300;	
+    line-height: 18px;
+    margin-left: 12px;
+}
